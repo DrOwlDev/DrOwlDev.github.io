@@ -8,7 +8,37 @@
       "ScreenOrientation": "Portrait",
       "ContentType": "WebPage",
       "ContentUrl": "https://listpull.com/demo/index.html",
+      "Groups": "Puzzle"
+    },
+    {
+      "Name": "Feed Pac",
+      "AccessLevel": 0,
+      "Cost": 0,
+      "ImageUrl": "https://drowldev.files.wordpress.com/2023/01/ico_feedpac.png",
+      "ScreenOrientation": "Portrait",
+      "ContentType": "WebPage",
+      "ContentUrl": "https://previews.customer.envatousercontent.com/files/379856948/index.html",
       "Groups": "Arcade"
-    }  
+    },
+    {
+      "Name": "Cut Grass",
+      "AccessLevel": 0,
+      "Cost": 0,
+      "ImageUrl": "https://drowldev.files.wordpress.com/2023/01/ico_cutgrass.png",
+      "ScreenOrientation": "Portrait",
+      "ContentType": "WebPage",
+      "ContentUrl": "https://previews.customer.envatousercontent.com/files/385693329/index.html",
+      "Groups": "Arcade"
+    },
+    {
+      "Name": "Sea World",
+      "AccessLevel": 0,
+      "Cost": 0,
+      "ImageUrl": "https://drowldev.files.wordpress.com/2023/01/ico_seaworld.png",
+      "ScreenOrientation": "Landscape",
+      "ContentType": "WebPage",
+      "ContentUrl": "https://previews.customer.envatousercontent.com/files/339754884/index.html",
+      "Groups": "Puzzle"
+    } 
   ]
 }
