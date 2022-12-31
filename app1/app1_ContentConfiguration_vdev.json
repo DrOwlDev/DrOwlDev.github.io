@@ -2,9 +2,10 @@
   "Items": [
     {
       "Name": "2048",
-      "AccessLevel": 1,
-      "Cost": 2,
+      "AccessLevel": 0,
+      "Cost": 0,
       "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/snow-whites-story.png",
+      "ScreenOrientation": "Portrait",
       "ContentType": "WebPage",
       "ContentUrl": "https://listpull.com/demo/index.html",
       "Groups": "Arcade"
