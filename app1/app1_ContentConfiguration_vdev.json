@@ -1,10 +1,10 @@
 {
   "Items": [
     {
-      "Name": "2048",
+      "Name": "2048 Super Ball",
       "AccessLevel": 0,
       "Cost": 0,
-      "ImageUrl": "https://livehappymonkeya00001.files.wordpress.com/2022/04/snow-whites-story.png",
+      "ImageUrl": "https://drowldev.files.wordpress.com/2023/01/ico_2048ball.png",
       "ScreenOrientation": "Portrait",
       "ContentType": "WebPage",
       "ContentUrl": "https://listpull.com/demo/index.html",
