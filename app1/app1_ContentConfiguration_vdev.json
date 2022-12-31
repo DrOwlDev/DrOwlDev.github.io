@@ -39,6 +39,16 @@
       "ContentType": "WebPage",
       "ContentUrl": "https://previews.customer.envatousercontent.com/files/339754884/index.html",
       "Groups": "Puzzle"
+    },
+    {
+      "Name": "Balloons Shooter",
+      "AccessLevel": 0,
+      "Cost": 0,
+      "ImageUrl": "https://drowldev.files.wordpress.com/2023/01/ico_balloonsshooter.png",
+      "ScreenOrientation": "Portrait",
+      "ContentType": "WebPage",
+      "ContentUrl": "https://previews.customer.envatousercontent.com/files/265193493/index.html",
+      "Groups": "Shooting"
     } 
   ]
 }
