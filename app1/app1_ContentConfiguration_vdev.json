@@ -45,7 +45,8 @@
     {
       "Name": "Four Colors",
       "Groups": "Card",
-      "ContentUrl": "https://showcase.codethislab.com/games/four_colors/"
+      "ContentUrl": "https://showcase.codethislab.com/games/four_colors/",
+      "ScreenOrientation": "Landscape"
     },
     {
       "Name": "Master Chess",
