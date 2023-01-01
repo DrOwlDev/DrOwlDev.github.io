@@ -29,7 +29,7 @@
       "IsRateThisAppButtonAvailable": true,
       "IsBuyUsACoffeeButtonAvailable": true,
       "IsSettingButtonAvailable": true,
-      "EnableBackgroundImage": true,
+      "EnableBackgroundImage": false,
       "EnableBackgroundMusic": true,
       "ShouldCacheContentConfiguration": false,
       "ContentConfigurationUrl": "https://drowldev.github.io/app1/app1_ContentConfiguration_vdev.json",
