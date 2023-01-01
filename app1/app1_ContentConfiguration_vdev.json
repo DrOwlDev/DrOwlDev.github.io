@@ -41,6 +41,106 @@
       "Name": "Space Adventure Pinball",
       "Groups": "Puzzle",
       "ContentUrl": "https://showcase.codethislab.com/games/space_adventure_pinball/"
+    },
+    {
+      "Name": "Four Colors",
+      "Groups": "Card",
+      "ContentUrl": "https://showcase.codethislab.com/games/four_colors/"
+    },
+    {
+      "Name": "Master Chess",
+      "Groups": "Chess",
+      "ContentUrl": "https://showcase.codethislab.com/games/master_chess/"
+    },
+    {
+      "Name": "Galactic Geeks",
+      "Groups": "Quiz",
+      "ContentUrl": "https://polargames.com.br/games-html5/galactic-geeks/"
+    },
+    {
+      "Name": "Noob Long Hand",
+      "Groups": "Arcade",
+      "ContentUrl": "https://previews.customer.envatousercontent.com/files/426331719/index.html"
+    },
+    {
+      "Name": "Dig Up The Way",
+      "Groups": "Arcade",
+      "ContentUrl": "https://previews.customer.envatousercontent.com/files/426814758/index.html"
+    },
+    {
+      "Name": "Aliens Vs Math",
+      "Groups": "Quiz",
+      "ContentUrl": "https://polargames.com.br/preview/aliens-vs-math/"
+    },
+    {
+      "Name": "Play Checkers",
+      "Groups": "Chess",
+      "ContentUrl": "https://demonisblack.com/code/2022/playcheckers/game/"
+    },
+    {
+      "Name": "Remember Fish Position",
+      "Groups": "Puzzle",
+      "ContentUrl": "https://showcase.tegagame.com/games/remember-fish-position/"
+    },
+    {
+      "Name": "Candy Square",
+      "Groups": "Puzzle",
+      "ContentUrl": "https://raizensoft.com/test/web-app/csquare/preview/"
+    },
+    {
+      "Name": "",
+      "Groups": "",
+      "ContentUrl": ""
+    },
+    {
+      "Name": "",
+      "Groups": "",
+      "ContentUrl": ""
+    },
+    {
+      "Name": "",
+      "Groups": "",
+      "ContentUrl": ""
+    },
+    {
+      "Name": "",
+      "Groups": "",
+      "ContentUrl": ""
+    },
+    {
+      "Name": "",
+      "Groups": "",
+      "ContentUrl": ""
+    },
+    {
+      "Name": "",
+      "Groups": "",
+      "ContentUrl": ""
+    },
+    {
+      "Name": "",
+      "Groups": "",
+      "ContentUrl": ""
+    },
+    {
+      "Name": "",
+      "Groups": "",
+      "ContentUrl": ""
+    },
+    {
+      "Name": "",
+      "Groups": "",
+      "ContentUrl": ""
+    },
+    {
+      "Name": "",
+      "Groups": "",
+      "ContentUrl": ""
     }
+
+
+
+
+
   ]
 }
