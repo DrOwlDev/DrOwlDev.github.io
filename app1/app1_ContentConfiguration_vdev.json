@@ -2,53 +2,34 @@
   "Items": [
     {
       "Name": "2048 Super Ball",
-      "AccessLevel": 0,
-      "Cost": 0,
+      "Groups": "Puzzle",
       "ImageUrl": "https://drowldev.files.wordpress.com/2023/01/ico_2048ball.png",
-      "ScreenOrientation": "Portrait",
-      "ContentType": "WebPage",
-      "ContentUrl": "https://listpull.com/demo/index.html",
-      "Groups": "Puzzle"
+      "ContentUrl": "https://listpull.com/demo/index.html"
     },
     {
       "Name": "Feed Pac",
-      "AccessLevel": 0,
-      "Cost": 0,
+      "Groups": "Arcade",
       "ImageUrl": "https://drowldev.files.wordpress.com/2023/01/ico_feedpac.png",
-      "ScreenOrientation": "Portrait",
-      "ContentType": "WebPage",
-      "ContentUrl": "https://previews.customer.envatousercontent.com/files/379856948/index.html",
-      "Groups": "Arcade"
+      "ContentUrl": "https://previews.customer.envatousercontent.com/files/379856948/index.html"
     },
     {
       "Name": "Cut Grass",
-      "AccessLevel": 0,
-      "Cost": 0,
+      "Groups": "Arcade",
       "ImageUrl": "https://drowldev.files.wordpress.com/2023/01/ico_cutgrass.png",
-      "ScreenOrientation": "Portrait",
-      "ContentType": "WebPage",
-      "ContentUrl": "https://previews.customer.envatousercontent.com/files/385693329/index.html",
-      "Groups": "Arcade"
+      "ContentUrl": "https://previews.customer.envatousercontent.com/files/385693329/index.html"
     },
     {
       "Name": "Sea World",
-      "AccessLevel": 0,
-      "Cost": 0,
+      "Groups": "Puzzle",
       "ImageUrl": "https://drowldev.files.wordpress.com/2023/01/ico_seaworld.png",
-      "ScreenOrientation": "Landscape",
-      "ContentType": "WebPage",
       "ContentUrl": "https://previews.customer.envatousercontent.com/files/339754884/index.html",
-      "Groups": "Puzzle"
+      "ScreenOrientation": "Landscape"
     },
     {
       "Name": "Balloons Shooter",
-      "AccessLevel": 0,
-      "Cost": 0,
+      "Groups": "Shooting",
       "ImageUrl": "https://drowldev.files.wordpress.com/2023/01/ico_balloonsshooter.png",
-      "ScreenOrientation": "Portrait",
-      "ContentType": "WebPage",
-      "ContentUrl": "https://previews.customer.envatousercontent.com/files/265193493/index.html",
-      "Groups": "Shooting"
-    } 
+      "ContentUrl": "https://previews.customer.envatousercontent.com/files/265193493/index.html"
+    }
   ]
 }
