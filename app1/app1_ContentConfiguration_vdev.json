@@ -4,38 +4,44 @@
       "Name": "2048 Super Ball",
       "Groups": "Puzzle",
       "ImageUrl": "https://drowldev.files.wordpress.com/2023/01/ico_2048ball.png",
-      "ContentUrl": "https://listpull.com/demo/index.html"
+      "ContentUrl": "https://listpull.com/demo/index.html",
+      "AccessLevel": 10
     },
     {
       "Name": "Feed Pac",
       "Groups": "Arcade",
       "ImageUrl": "https://drowldev.files.wordpress.com/2023/01/ico_feedpac.png",
-      "ContentUrl": "https://previews.customer.envatousercontent.com/files/379856948/index.html"
+      "ContentUrl": "https://previews.customer.envatousercontent.com/files/379856948/index.html",
+      "AccessLevel": 10
     },
     {
       "Name": "Cut Grass",
       "Groups": "Arcade",
       "ImageUrl": "https://drowldev.files.wordpress.com/2023/01/ico_cutgrass.png",
-      "ContentUrl": "https://previews.customer.envatousercontent.com/files/385693329/index.html"
+      "ContentUrl": "https://previews.customer.envatousercontent.com/files/385693329/index.html",
+      "AccessLevel": 10
     },
     {
       "Name": "Sea World",
       "Groups": "Puzzle",
       "ImageUrl": "https://drowldev.files.wordpress.com/2023/01/ico_seaworld.png",
       "ContentUrl": "https://previews.customer.envatousercontent.com/files/339754884/index.html",
-      "ScreenOrientation": "Landscape"
+      "ScreenOrientation": "Landscape",
+      "AccessLevel": 10
     },
     {
       "Name": "Balloons Shooter",
       "Groups": "Shooting",
       "ImageUrl": "https://drowldev.files.wordpress.com/2023/01/ico_balloonsshooter.png",
-      "ContentUrl": "https://previews.customer.envatousercontent.com/files/265193493/index.html"
+      "ContentUrl": "https://previews.customer.envatousercontent.com/files/265193493/index.html",
+      "AccessLevel": 10
     },
     {
       "Name": "Cutting Grass 3D",
       "Groups": "Puzzle",
       "ImageUrl": "https://drowldev.files.wordpress.com/2023/01/ico_cutgrass.png",
-      "ContentUrl": "https://previews.customer.envatousercontent.com/files/426196757/index.html"
+      "ContentUrl": "https://previews.customer.envatousercontent.com/files/426196757/index.html",
+      "AccessLevel": 10
     },
     {
       "Name": "Space Adventure Pinball",
@@ -56,12 +62,14 @@
     {
       "Name": "Galactic Geeks",
       "Groups": "Quiz",
-      "ContentUrl": "https://polargames.com.br/games-html5/galactic-geeks/"
+      "ContentUrl": "https://polargames.com.br/games-html5/galactic-geeks/",
+      "ScreenOrientation": "Landscape"
     },
     {
       "Name": "Noob Long Hand",
       "Groups": "Arcade",
-      "ContentUrl": "https://previews.customer.envatousercontent.com/files/426331719/index.html"
+      "ContentUrl": "https://previews.customer.envatousercontent.com/files/426331719/index.html",
+      "ScreenOrientation": "Landscape"
     },
     {
       "Name": "Dig Up The Way",
@@ -86,7 +94,8 @@
     {
       "Name": "Candy Square",
       "Groups": "Puzzle",
-      "ContentUrl": "https://raizensoft.com/test/web-app/csquare/preview/"
+      "ContentUrl": "https://raizensoft.com/test/web-app/csquare/preview/",
+      "ScreenOrientation": "Landscape"
     },
     {
       "Name": "In Orbit",
@@ -101,7 +110,8 @@
     {
       "Name": "Spect",
       "Groups": "Arcade",
-      "ContentUrl": "http://www.spectgame.sharkywalls.com/"
+      "ContentUrl": "http://www.spectgame.sharkywalls.com/",
+      "ScreenOrientation": "Landscape"
     },
     {
       "Name": "Box Tower",
@@ -111,7 +121,8 @@
     {
       "Name": "Animals Word for Kids",
       "Groups": "Words",
-      "ContentUrl": "https://previews.customer.envatousercontent.com/files/343204522/index.html"
+      "ContentUrl": "https://previews.customer.envatousercontent.com/files/343204522/index.html",
+      "ScreenOrientation": "Landscape"
     },
     {
       "Name": "Whack A Mole",
@@ -131,7 +142,8 @@
     {
       "Name": "Candy Match",
       "Groups": "Fun",
-      "ContentUrl": "https://previews.customer.envatousercontent.com/files/362739887/index.html"
+      "ContentUrl": "https://previews.customer.envatousercontent.com/files/362739887/index.html",
+      "ScreenOrientation": "Landscape"
     },
     {
       "Name": "Deep Space X",
