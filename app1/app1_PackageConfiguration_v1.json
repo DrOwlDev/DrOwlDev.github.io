@@ -23,6 +23,7 @@
       "IsAvailableRateThisAppButton": true,
       "IsAvailableBuyUsACoffeeButton": true,
       "IsAvailableSettingButton": true,
+      "IsAvailableWatchAdButton": true,
       "EnableBackgroundImage": false,
       "EnableBackgroundMusic": true,
       "ShouldCacheContentConfiguration": false,
