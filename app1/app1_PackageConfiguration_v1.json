@@ -9,6 +9,7 @@
       "RewardedId": "ca-app-pub-9805813248638529/3603744068"
     },
     "PackageConfig": {
+      "ContentConfigurationUrl": "https://drowldev.github.io/app1/app1_ContentConfiguration_v1.json",
       "StartUpAlertMessage": "",
       "StartUpToastMessage": "",
       "StartUpToastDuration": 15,
@@ -31,7 +32,6 @@
       "EnableBackgroundImage": false,
       "EnableBackgroundMusic": true,
       "ShouldCacheContentConfiguration": false,
-      "ContentConfigurationUrl": "https://drowldev.github.io/app1/app1_ContentConfiguration_vdev.json",
       "BackgroundImages": [
         "https://livehappymonkeya00001.files.wordpress.com/2022/03/dev_background.jpg",
         "https://livehappymonkeya00001.files.wordpress.com/2022/12/bnb.jpg",
