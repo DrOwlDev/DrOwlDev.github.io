@@ -45,13 +45,13 @@
     },
     {
       "Name": "Space Adventure Pinball",
-      "Groups": "Puzzle",
+      "Groups": "Arcade",
       "ImageUrl": "https://drowldev.files.wordpress.com/2023/01/ico_spaceadventurepinball.png",
       "ContentUrl": "https://showcase.codethislab.com/games/space_adventure_pinball/"
     },
     {
       "Name": "Four Colors",
-      "Groups": "Card",
+      "Groups": "Boardgame",
       "ImageUrl": "https://drowldev.files.wordpress.com/2023/01/ico_fourcolors.png",
       "ContentUrl": "https://showcase.codethislab.com/games/four_colors/",
       "ScreenOrientation": "Landscape"
@@ -108,19 +108,19 @@
     },
     {
       "Name": "Word Search",
-      "Groups": "Puzzle",
+      "Groups": "Quiz",
       "ImageUrl": "https://drowldev.files.wordpress.com/2023/01/ico_wordsearch.png",
       "ContentUrl": "https://storage.y8.com/onemanproapp/html5/wordsearchpro/index.html"
     },
     {
       "Name": "Box Tower",
-      "Groups": "Puzzle",
+      "Groups": "Arcade",
       "ImageUrl": "https://drowldev.files.wordpress.com/2023/01/ico_boxtower.png",
       "ContentUrl": "https://showcase.codethislab.com/games/box_tower/"
     },
     {
       "Name": "Animals Words",
-      "Groups": "Words",
+      "Groups": "Quiz",
       "ImageUrl": "https://drowldev.files.wordpress.com/2023/01/chrome_un44qjt3wi.png",
       "ContentUrl": "https://previews.customer.envatousercontent.com/files/343204522/index.html",
       "ScreenOrientation": "Landscape",
@@ -146,7 +146,7 @@
     },
     {
       "Name": "Candy Match",
-      "Groups": "Fun",
+      "Groups": "Puzzle",
       "ImageUrl": "https://drowldev.files.wordpress.com/2023/01/ico_candymatch.png",
       "ContentUrl": "https://previews.customer.envatousercontent.com/files/362739887/index.html",
       "ScreenOrientation": "Landscape"
