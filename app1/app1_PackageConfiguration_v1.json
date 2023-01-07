@@ -10,10 +10,10 @@
     },
     "PackageConfig": {
       "ContentConfigurationUrl": "https://drowldev.github.io/app1/app1_ContentConfiguration_v1.json",
+      "ItemAccessLevel": 1,
       "StartUpAlertMessage": "",
       "StartUpToastMessage": "",
       "StartUpToastDuration": 15,
-      "CurrentAccessLevel": 1,
       "InterstitialAdCoolDownSeconds": 60000,
       "RewardAdCoolDownSeconds": 30,
       "CreditEarnedAfterRewardAd": 10,
