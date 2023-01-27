@@ -4,7 +4,7 @@
       "Name": "Fruits",
       "Groups": "Toddler",
       "ImageUrl": "https://drowldev.github.io/app2/media/Fruits_en/Apple_en.jpg",
-      "ContentUrl": "https://drowldev.github.io/app2/media/Fruits_en/_Fruits_en.json",
+      "ContentUrl": "https://drowldev.github.io/app2/media/Fruits_en/Fruits_en.json",
       "ContentType": "SlideShow",
       "ScreenOrientation": "Landscape",
       "AccessLevel": 1
