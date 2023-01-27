@@ -14,6 +14,7 @@
       "StartUpAlertMessage": "",
       "StartUpToastMessage": "",
       "StartUpToastDuration": 15,
+      "IsForceShutdown": false,
       "IsFreeMode": true,
       "IsAvailableBannerAd": false,
       "IsAvailableInterstitialAd": false,
