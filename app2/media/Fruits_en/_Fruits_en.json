@@ -1,0 +1,34 @@
+{
+  "Items": [
+    {
+      "Caption": "https://drowldev.github.io/app2/media/Fruits_en/Apple_en.txt",
+      "Image": "https://drowldev.github.io/app2/media/Fruits_en/Apple_en.jpg",
+      "Audio": "https://drowldev.github.io/app2/media/Fruits_en/Apple_en.mp3"
+    },
+    {
+      "Caption": "https://drowldev.github.io/app2/media/Fruits_en/Banana_en.txt",
+      "Image": "https://drowldev.github.io/app2/media/Fruits_en/Banana_en.jpg",
+      "Audio": "https://drowldev.github.io/app2/media/Fruits_en/Banana_en.mp3"
+    },
+    {
+      "Caption": "https://drowldev.github.io/app2/media/Fruits_en/Kiwifruit_en.txt",
+      "Image": "https://drowldev.github.io/app2/media/Fruits_en/Kiwifruit_en.jpg",
+      "Audio": "https://drowldev.github.io/app2/media/Fruits_en/Kiwifruit_en.mp3"
+    },
+    {
+      "Caption": "https://drowldev.github.io/app2/media/Fruits_en/Mango_en.txt",
+      "Image": "https://drowldev.github.io/app2/media/Fruits_en/Mango_en.jpg",
+      "Audio": "https://drowldev.github.io/app2/media/Fruits_en/Mango_en.mp3"
+    },
+    {
+      "Caption": "https://drowldev.github.io/app2/media/Fruits_en/Orange_en.txt",
+      "Image": "https://drowldev.github.io/app2/media/Fruits_en/Orange_en.jpg",
+      "Audio": "https://drowldev.github.io/app2/media/Fruits_en/Orange_en.mp3"
+    },
+    {
+      "Caption": "https://drowldev.github.io/app2/media/Fruits_en/Pineapple_en.txt",
+      "Image": "https://drowldev.github.io/app2/media/Fruits_en/Pineapple_en.jpg",
+      "Audio": "https://drowldev.github.io/app2/media/Fruits_en/Pineapple_en.mp3"
+    } 
+  ]
+}
